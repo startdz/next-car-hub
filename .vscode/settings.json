@@ -1,0 +1,5 @@
+{
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": false,
+  "githubPullRequests.showPullRequestNumberInTree": true,
+  "workbench.tree.indent": 8,
+}
